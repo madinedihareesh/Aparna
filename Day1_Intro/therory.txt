@@ -1,0 +1,57 @@
+1.what is a progamming language?
+2.why progamming language?
+there are helpfull store the memory and perform some actions on the memory
+what is a computer?
+calculation 
+what are types of progamming?
+low- 0101 computer languge (meachine/Ass) AVG 100 MVB A,B
+High level:(English) (for,in,of,not)
+types of high level programming:
+1.genral purpose (java, python,c,c#)(process)
+2.special purpose(Android)
+3.scripting(python,php,javascript)()
+
+High level:
+1.complier(exams the code at once and give all the rrors at once)
+2.interpreter(will go by line by line)
+3.Hybread(com,inter)
+compile(Byte code)-->interpreter-->line by line
+java--java class-->inter-->output
+python--pyc--.inter-->ouput 
+note:python is an interpreted
+platform dependet,independent?
+c,c#,java (jvm),python(pvm)
+
+paradims:(nothing but small peice of original program)
+
+centric:
+Data centric:(java)
+class,object,
+data 
+fuctional centric:(java script) diff function are op on data to perform
+a task
+moduler centric:
+python is multi-centric (functional, data,moduler)
+
+garbage collection:
+a=50
+
+started (1989) (c)
+ciw() to reduce 
+1991 0.9.0()
+3.x. security
+google
+
+identifiers:
+name='persons name'
+
+variables:
+name='sita'
+imporent:
+we have to declare a python file with .py
+
+rules and regulation:
+1.should not start with number
+2.start with alphabets,(_)
+3.should not utilize pre defined key as a variable(for,of,in)
+4.it is not a case sencitive
