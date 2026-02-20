@@ -1,0 +1,9 @@
+primitive datatypes:
+int
+bool
+str
+complex
+float
+
+when we are assigning a value for the identifer that perticuler value is
+know as scaler variable or litaral
