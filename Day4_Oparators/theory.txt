@@ -1,0 +1,41 @@
+opartors:(oparatoins)
+oparators are used to perform oparations between oparends(variables,number,float,string)
+types:
+1.Arthamatic
+  add(+)
+  sub(-)
+  mul(*)
+  div(/) (float)
+  mod(%)(reminder)
+  floor div(//) (which will return the floor of a division)
+  exponent(**)
+2.Relational/comparission: the result set will be in a boolen state
+  >
+  <
+  >=
+  <=
+  !=
+  == (equals)
+
+3.Assignment :
+  =(Assignment)
+  +=
+  -=
+  /=
+  %=
+  */
+  //=
+  **=
+4.logical: (return the values in a boolen format)
+  if you want to perform an oparation between to boolen condtion the logical
+  oparators comes into picture
+  or (1 or 1=1, 1 or 0 = 1,0 or 1=1,0 or 0=0)
+  and (1 and 1=1,1 and 0=0,0 and 1=0,0 and 0=0)
+  not (not1=0,not0=1)
+5.membership:sequalcial data type (boolen data type)
+  in 
+  not in
+6.bitwise: buliting any progaming languages
+ ~,^,$,>>,<<  10(1010) ^ 3(0011)
+7.identity (boolen expression by verifying memory address)
+  is,is not 
