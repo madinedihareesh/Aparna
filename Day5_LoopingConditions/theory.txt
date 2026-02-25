@@ -1,0 +1,34 @@
+Loop: Lopping is nothing but reptetating the same process
+untill the condition statisfies
+
+looping is nothing but repting the block of code untill
+the condition satifies
+
+types of loops:
+while loop:(which acts alone)
+    1.it is know as Centinal loop
+    syntax:
+      while condition:
+          block of code
+for loop: sqentical data
+    1. it is know as for each loop
+
+non-premitive data types:
+1.sequancial datatype
+   # string
+name='AchieversIT'
+print(name[0])
+# tuple
+t=1,2,3,4,5,6
+print(t[0])
+# list
+l=[1,2,3,4,5,6]
+print(l[0])
+# array
+# bytearray
+2.non-sequentical data type 
+# non-sequalncial 
+#sets
+s={1,2,3,4,4,5}
+#dict
+d={'name':'John','age':27}   
