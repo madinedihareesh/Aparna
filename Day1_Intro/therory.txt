@@ -54,4 +54,4 @@ rules and regulation:
 1.should not start with number
 2.start with alphabets,(_)
 3.should not utilize pre defined key as a variable(for,of,in)
-4.it is not a case sencitive
+4.it is a case sencitive
