@@ -1,0 +1,5 @@
+name=input('Enter you name: ')
+email=input('Enter the Email: ')
+username=input('Enter the user name:')
+password=input('Enter you password:')
+bal=input('Enter the min bal: ')
