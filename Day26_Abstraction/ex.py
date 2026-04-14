@@ -53,8 +53,12 @@ class Person(ATM):
         self.bal=bal
         self.acc=acc
         self.pin=pin
-    def Checkbal(self):
-        print(self.bal)
+    def Checkbal(self,pin):
+        pin=int(input('Enter you pin))
+        if pin==self.pin:
+            print(self.bal)
+        else:
+            print('invalid Pin number')    
     def Diposite(self,disamout):
         self.bal=self.bal+disamout
         print('Diposite successfull your current bal is',self.bal)
